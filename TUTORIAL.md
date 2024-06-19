@@ -106,8 +106,8 @@ ADP_EM not only provides a way to fit atomic structures inside a low-resolution 
 <table style="width: 122px;" border="0" cellspacing="2" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td><img style="border: 0;" src="images/sbg/adp_em/chainH.jpg" width="223" height="199" border="0" /></td>
-<td><img style="border: 0;" src="images/sbg/adp_em/chainH_14.9.sit.jpg" width="212" height="189" border="0" /></td>
+<td><img style="border: 0;" src="assets/chainH.jpg" width="223" height="199" border="0" /></td>
+<td><img style="border: 0;" src="assets/chainH_14.9.sit.jpg" width="212" height="189" border="0" /></td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +115,7 @@ ADP_EM not only provides a way to fit atomic structures inside a low-resolution 
 <table style="width: 122px;" border="0" cellspacing="2" cellpadding="0" align="center">
 <tbody>
 <tr>
-<td><img style="border: 0;" src="images/sbg/adp_em/emd1047.jpg" width="222" height="176" border="0" /></td>
+<td><img style="border: 0;" src="assets/emd1047.jpg" width="222" height="176" border="0" /></td>
 </tr>
 </tbody>
 </table>
