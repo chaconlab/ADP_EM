@@ -20,7 +20,8 @@ This is a tutorial for using ADP EM molecular fitting tool in Chimera.  As a u
 <p>The <em>ADP EM</em> module will be under the <span style="color: #ff0000;"><em>Tools</em> </span>→ <span style="color: #ff0000;"><em>EM Fitting</em></span> menu.</p>
 <h2>Using the plugin</h2>
 <p>When loaded, you will see this new window:</p>
-<p><img src="assets/Captura_de_pantalla_2017_05_15_a_las_19_03_40.png"  border="0" /></p>
+
+<p><img src="assets/Captura-de-pantalla-2017-05-15-a-las-19-03-40.png"  border="0" /></p>
 <p>In the first row, you could choose you atomic structures and your maps loaded in Chimera. </p>
 <p>There are three required parameters to run the <em>ADP EM</em> fitting process:</p>
 <ul>
@@ -69,7 +70,7 @@ This is a tutorial for using ADP EM molecular fitting tool in Chimera.  As a u
 </ul>
 <p> </p>
 <p>In addition to these parameters, some extra features have been provided to expert users who know how to use the ADP EM tool and what objectives they are looking for. These parameters can be found in the Options button, which displays a new panel to insert them:</p>
-<p><img src="assets/Captura_de_pantalla_2017_05_15_a_las_19_30_42.png"  border="0" /></p>
+<p><img src="assets/Captura-de-pantalla-2017-05-15-a-las-19-30-42.png"  border="0" /></p>
 <ul>
 <li><strong>Number peaks explored per docking</strong>: default 30.</li>
 </ul>
