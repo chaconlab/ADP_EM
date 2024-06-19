@@ -87,7 +87,7 @@ For fitting multiple atomic structures into an EM density map use:
 </tbody>
 </table>
 
-## Advanced_options
+## Advanced options
 
 Many optional parameters can be used for tuning up the docking tool. The more useful are:</p>
 <table style="width: 550px;" border="2"><colgroup> <col width="54" /> <col width="488" /> </colgroup>
